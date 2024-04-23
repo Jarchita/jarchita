@@ -1,6 +1,8 @@
 ### Hey 👋,
-I'm **Jarchita Besaniya**, Mobile Application Developer and Software Engineer from **Ahmedabad, India**.
-I'm currently working as Sr. Software Engineer at [Cygnet Infotech](https://cygnet-infotech.com/).
+I'm **Jarchita Besaniya**, Mobile Application Developer and Software Engineer. I currently live in **Melbourne, Australia**.
+I've previously worked as Sr. Software Engineer at [Cygnet Digital](https://www.cygnet-digital.com/) in Ahmedabad, India.
+
+I have been creating mobile apps since past **6 years**. 
 
 I hold experience in App developemnt for **Android**, **iOS** using native frameworks as well as Cross platform..
 **Flutter** is my recent favourite. I have built apps for **AR/VR** using **Unity3D** and some Hybrid Apps as well. 📱
@@ -8,7 +10,7 @@ I hold experience in App developemnt for **Android**, **iOS** using native frame
 I love creating Apps that has great UI. 🖤
 
 
-In my personal world you'll find me creating Art, nurturing plants, reading books, travelling etc etc. ✨
+In my personal world you'll find me creating Art, nurturing plants, reading books, cooking, travelling etc etc. ✨
 
 
 
