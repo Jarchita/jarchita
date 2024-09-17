@@ -1,6 +1,6 @@
 ### Hey 👋,
-I'm **Jarchita Besaniya**, Mobile Application Developer and Software Engineer. I currently live in **Melbourne, Australia**.
-I've previously worked as Sr. Software Engineer at [Cygnet Digital](https://www.cygnet-digital.com/) in Ahmedabad, India.
+I'm **Jarchita Besaniya**, A Senior Flutter Developer and Mobile Application Engineer. I currently live in **Melbourne, Australia**.
+I've previously worked as Senior Software Engineer in Ahmedabad, India.
 
 I have been creating mobile apps since past **6 years**. 
 
