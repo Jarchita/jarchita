@@ -1,8 +1,7 @@
 ### Hey 👋,
-I'm **Jarchita Besaniya**, A Senior Flutter Developer and Mobile Application Engineer. I currently live in **Melbourne, Australia**.
-I've previously worked as Senior Software Engineer in Ahmedabad, India.
+I'm **Jarchita Besaniya**, A Senior Flutter Developer and Mobile Application Engineer. I'm currently working with Buddybet Group in **Melbourne, Australia**.
 
-I have been creating mobile apps since past **6 years**. 
+I have been creating mobile apps since past **7 years**. 
 
 I hold experience in App developemnt for **Android**, **iOS** using native frameworks as well as Cross platform..
 **Flutter** is my recent favourite. I have built apps for **AR/VR** using **Unity3D** and some Hybrid Apps as well. 📱
