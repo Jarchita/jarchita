@@ -2,7 +2,7 @@
 
 ### Senior Mobile Engineer · Flutter · React Native · Expo · Melbourne, Australia
 
-8+ years shipping production mobile apps — from fintech and enterprise to consumer and fitness. I work across the full lifecycle: architecture, feature development, and App Store release. I'm well versed with Web as well.
+8+ years shipping production mobile apps - from fintech and enterprise to consumer and fitness. I work across the full lifecycle: architecture, feature development, and App Store release. I'm well versed with Web as well.
 
 Also dabbled in AR/VR with Unity3D, which was as fun as it sounds.
 
@@ -30,7 +30,7 @@ Firebase · GitHub Actions · GitLab CI/CD · Fastlane · EAS · New Relic · Az
 
 - AI-integrated Flutter chatbot across web & mobile at **BHP**
 - Cross-platform sports betting app (RN Expo) shipped to App Store & Play Store at **Buddybet**
-- Tax compliance Flutter app provisionally selected by the **Indian Government** and many more apps at Cygnet
+- Tax compliance Flutter app provisionally selected by the **Indian Government** and many more apps at **Cygnet**
 - Enterprise Android apps serving multiple B2B and B2C clients simultaneously
 - AR/VR mobile experiences using Unity3D
 - And collaborated in countless Applications across platforms
