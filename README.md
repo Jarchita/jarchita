@@ -1,33 +1,46 @@
-### Hey 👋,
-I'm **Jarchita Besaniya**, A Senior Flutter Developer and Mobile Application Engineer. I'm currently working with Buddybet Group in **Melbourne, Australia**.
+# Hey 👋 I'm Jarchita
 
-I have been creating mobile apps since past **7 years**. 
+### Senior Mobile Engineer · Flutter · React Native · Expo · Melbourne, Australia
 
-I hold experience in App developemnt for **Android**, **iOS** using native frameworks as well as Cross platform..
-**Flutter** is my recent favourite. I have built apps for **AR/VR** using **Unity3D** and some Hybrid Apps as well. 📱
+8+ years shipping production mobile apps — from fintech and enterprise to consumer and fitness. I work across the full lifecycle: architecture, feature development, and App Store release. I'm well versed with Web as well.
 
-I love creating Apps that has great UI. 🖤
+Also dabbled in AR/VR with Unity3D, which was as fun as it sounds.
 
+I care a lot about clean architecture and UI that actually feels good to use. 🖤
 
-In my personal world you'll find me creating Art, nurturing plants, reading books, cooking, travelling etc etc. ✨
+---
 
+### 🛠 What I Work With
 
+**Mobile & Cross-Platform**
+Flutter · React Native · Expo · Android SDK · iOS · Unity3D (AR/VR)
 
+**Languages**
+Dart · TypeScript · JavaScript · Kotlin · Java · Swift
 
+**Architecture & State**
+MVVM · Clean Architecture · Riverpod · BLoC · Redux · Zustand · Provider
 
+**Cloud & DevOps**
+Firebase · GitHub Actions · GitLab CI/CD · Fastlane · EAS · New Relic · Azure DevOps
 
+---
 
-<!--
-**Jarchita/jarchita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 What I've Built
 
-Here are some ideas to get you started:
+- AI-integrated Flutter chatbot across web & mobile at **BHP**
+- Cross-platform sports betting app (RN Expo) shipped to App Store & Play Store at **Buddybet**
+- Tax compliance Flutter app provisionally selected by the **Indian Government** and many more apps at Cygnet
+- Enterprise Android apps serving multiple B2B and B2C clients simultaneously
+- AR/VR mobile experiences using Unity3D
+- And collaborated in countless Applications across platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Outside of Code
+
+Making art · reading · cooking · growing plants · travelling · finding the next great coffee spot ☕
+
+---
+
+*Always open to interesting mobile projects and the right full-time opportunity.*
