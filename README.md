@@ -29,7 +29,7 @@ Firebase · GitHub Actions · GitLab CI/CD · Fastlane · EAS · New Relic · Az
 ### 📱 What I've Built
 
 - AI-integrated Flutter chatbot across web & mobile at **BHP**
-- Cross-platform sports betting app (RN Expo and Flutter) shipped to App Store & Play Store at **Buddybet**
+- Cross-platform sports betting app (RN Expo) shipped to App Store & Play Store at **Buddybet** (now **Alivate**)
 - Tax compliance Flutter app provisionally selected by the **Indian Government** and many more apps at **Cygnet**
 - Enterprise Android apps serving multiple B2B and B2C clients simultaneously
 - AR/VR mobile experiences using Unity3D
