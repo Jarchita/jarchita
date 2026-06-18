@@ -43,4 +43,4 @@ Making art · reading · cooking · growing plants · travelling · finding the 
 
 ---
 
-*Always open to interesting mobile projects and the right full-time opportunity.*
+*Always open to interesting mobile projects.*
